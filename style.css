@@ -489,7 +489,7 @@ footer li {
 }
 
 footer a {
-	color: #62656a;
+	color: #8109b7;
 }
 
 footer a:hover {
@@ -683,4 +683,10 @@ footer small {
 		margin-top: 4px;
 		margin-left: 10px;
 	}
+}
+
+
+.small-img{
+	width: 2500px;
+	height: 3000px;
 }
