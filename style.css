@@ -349,6 +349,10 @@ section {
   background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-1/p112x112/53681286_10218999553008174_6087923405422592000_n.jpg?_nc_cat=100&_nc_ht=scontent-lhr3-1.xx&oh=17d0deb175ffd6b5358fe2e372480c72&oe=5D1DA960');
 }
 
+.review-two {
+	background-image: url('https://scontent.fman1-2.fna.fbcdn.net/v/t1.0-1/p480x480/44029867_1174837859338605_8058647133189832704_n.jpg?_nc_cat=103&_nc_ht=scontent.fman1-2.fna&oh=4abffd79e88d2619734b18e1a4c05b8d&oe=5D0F1C85');
+  }
+
 .personal-info {
 	padding: 5px 0 20px 0;
 	border-bottom: 1px solid #edf1f2;
